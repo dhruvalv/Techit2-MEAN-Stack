@@ -9,11 +9,11 @@ It incorporates following use-cases:
 Tech-Spec:
 
 Implementation : (MEAN stack)
-> Redesigned all the models for Mongoose.
-> Redeveloped all Rest endpoints using Node.j-Express.js with JWT Authentication which uses passport.js
-> Unit and integration of endpoints testing using Jasmine.
-> Used NoSQL database MongoDB.
-> Created Single Page Application using Angular CLI.
-> Created different Angular Components, Services for front end along with Bootstrap for styling.
-> Deployed it successfully on Ubuntu. (creating /dist in angular and pointing it to node server).
-> Used GitHub for version control.
+1) Redesigned all the models for Mongoose.
+2) Redeveloped all Rest endpoints using Node.j-Express.js with JWT Authentication which uses passport.js
+3) Unit and integration of endpoints testing using Jasmine.
+4) Used NoSQL database MongoDB.
+5) Created Single Page Application using Angular CLI.
+6) Created different Angular Components, Services for front end along with Bootstrap for styling.
+7) Deployed it successfully on Ubuntu. (creating /dist in angular and pointing it to node server).
+8) Used GitHub for version control.
